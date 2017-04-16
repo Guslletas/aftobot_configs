@@ -22,6 +22,12 @@
         <repository>
             <id>maven-public</id>
             <url>http://nexus.neurotecstudio.com/repository/maven-public/</url>
+			<snapshots>
+				<updatePolicy>always</updatePolicy>
+			</snapshots>
+			<releases>
+				<updatePolicy>always</updatePolicy>
+			</releases>			
         </repository>
     </repositories>
     <distributionManagement>
