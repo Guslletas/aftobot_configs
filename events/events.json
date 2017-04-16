@@ -44,6 +44,13 @@
       "videoOptions": {"seek": 13},
       "responseText": "SEIG HEIL!",
       "tts": true
+    },
+    {
+      "name": "el agua",
+      "videoURL": "https://www.youtube.com/watch?v=M8QFvApYxqA",
+      "videoOptions": {},
+      "responseText": "EL AGUA MOJA!",
+      "tts": true
     }
   ],
   "dmSpammer":[
