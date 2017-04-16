@@ -62,7 +62,7 @@
                 <version>3.0.2</version>
                 <executions>
                     <execution>
-                        <id>copy-typescript</id>
+                        <id>copy-json</id>
                         <phase>process-resources</phase>
                         <goals>
                             <goal>copy-resources</goal>
