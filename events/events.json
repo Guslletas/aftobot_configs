@@ -66,5 +66,11 @@
       "type": "cleverbot",
       "tts": true
     }
+  ],
+  "urbanDictEvent":[
+    {
+      "name": "what is",
+      "tts": true
+    }
   ]
 }
