@@ -67,7 +67,7 @@
       "tts": true
     }
   ],
-  "urbanDictEvent":[
+  "dictionaryEvent":[
     {
       "name": "what is",
       "tts": true
