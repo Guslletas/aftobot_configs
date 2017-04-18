@@ -72,5 +72,12 @@
       "name": "what is",
       "tts": true
     }
+  ],
+  "leaveVoice":[
+    {
+      "name": "gtfo bot",
+      "response": "OKE OKE NO BIGGIE",
+      "tts": true
+    }
   ]
 }
