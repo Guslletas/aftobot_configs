@@ -58,6 +58,13 @@
       "videoOptions": {},
       "responseText": "HEY GUYS, WELCOME TO EB GAMES!",
       "tts": false
+    },
+	{
+      "name": "80s memes",
+      "videoURL": "https://www.youtube.com/watch?v=gux6ZgKq9a8",
+      "videoOptions": {},
+      "responseText": "WOW, SUCH MEMES!",
+      "tts": true
     }
   ],
   "dmSpammer":[
