@@ -51,6 +51,13 @@
       "videoOptions": {},
       "responseText": "EL AGUA MOJA!",
       "tts": true
+    },
+	{
+      "name": "ev games",
+      "videoURL": "https://www.youtube.com/watch?v=-WAMFiMHpc8",
+      "videoOptions": {},
+      "responseText": "HEY GUYS, WELCOME TO EV GAMES!",
+      "tts": false
     }
   ],
   "dmSpammer":[
