@@ -65,6 +65,20 @@
       "videoOptions": {},
       "responseText": "WOW, SUCH MEMES!",
       "tts": true
+    },
+    {
+      "name": "nein",
+      "videoURL": "https://www.youtube.com/watch?v=xoMgnJDXd3k",
+      "videoOptions": {},
+      "responseText": "NEIN NEIN NEIN!",
+      "tts": false
+    },
+    {
+      "name": "saxo guy",
+      "videoURL": "https://www.youtube.com/watch?v=ziQ9vhYHwCU",
+      "videoOptions": {},
+      "responseText": "TU RU RU RU RU TU, TU TU RU RU RU TU, TU TU RU TU RU TU, TUUURU TUUURUU TURURURURURUUUU!",
+      "tts": false
     }
   ],
   "dmSpammer":[
