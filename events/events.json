@@ -14,6 +14,11 @@
       "name": "giblenny",
       "response": "HERE YOU HAVE GLORIOUS COMRADE LENNY: ( ͡° ͜ʖ ͡°)",
       "tts": true
+    },
+    {
+      "name": "clemente",
+      "response": "mata a la gente",
+      "tts": false
     }
   ],
   "youtubeResponse":[
@@ -78,6 +83,13 @@
       "videoURL": "https://www.youtube.com/watch?v=ziQ9vhYHwCU",
       "videoOptions": {},
       "responseText": "TU RU RU RU RU TU, TU TU RU RU RU TU, TU TU RU TU RU TU, TUUURU TUUURUU TURURURURURUUUU!",
+      "tts": false
+    },
+    {
+      "name": "no money?",
+      "videoURL": "https://www.youtube.com/watch?v=cDmwq9uC5Bg",
+      "videoOptions": {},
+      "responseText": "SUCK COCK!",
       "tts": false
     }
   ],
