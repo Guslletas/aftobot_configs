@@ -98,12 +98,19 @@
       "tts": false
     },
     {
-      "name": "anime was a mistake",
+      "name": "anime is a mistake",
       "videoURL": "https://www.youtube.com/watch?v=iHRZES6FRYA",
       "videoOptions": {},
       "responseText": "ANIME IS A MISTAKE",
       "tts": false
-    }	
+    },
+    {
+      "name": "卐rape卐",
+      "videoURL": "https://www.youtube.com/watch?v=5UhNiwwI7zk",
+      "videoOptions": {},
+      "responseText": "",
+      "tts": false
+    }
   ],
   "dmSpammer":[
     {
