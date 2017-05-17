@@ -112,6 +112,15 @@
       "tts": false
     }
   ],
+  "audioFileResponse":[
+    {
+      "name": "mercy",
+      "url": "https://hydra-media.cursecdn.com/overwatch.gamepedia.com/1/1e/Mercy_-_Helden_sterben_nicht.ogg",
+      "streamOptions": {},
+      "responseText": "Helden sterben nicht!",
+      "tts": false
+    }
+  ],
   "dmSpammer":[
     {
       "name": "卐summon卐",
