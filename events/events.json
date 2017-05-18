@@ -114,10 +114,10 @@
   ],
   "audioFileResponse":[
     {
-      "name": "mercytest",
-      "url": "https://hydra-media.cursecdn.com/overwatch.gamepedia.com/1/1e/Mercy_-_Helden_sterben_nicht.ogg",
+      "name": "mercy",
+      "url": "https://hydra-media.cursecdn.com/overwatch.gamepedia.com/2/21/Mercy_-_Heroes_never_die%21.ogg",
       "streamOptions": {},
-      "responseText": "Helden sterben nicht!",
+      "responseText": "Heroes never die! \n https://hydra-media.cursecdn.com/overwatch.gamepedia.com/6/66/Spray_Mercy_Cute.png?version=6e9a75fd58b8e1a4f7afc8f2130ae938",
       "tts": false
     }
   ],
