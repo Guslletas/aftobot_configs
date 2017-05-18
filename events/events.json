@@ -114,11 +114,109 @@
   ],
   "audioFileResponse":[
     {
-      "name": "mercy",
+      "name": "mercytest",
       "url": "https://hydra-media.cursecdn.com/overwatch.gamepedia.com/1/1e/Mercy_-_Helden_sterben_nicht.ogg",
       "streamOptions": {},
       "responseText": "Helden sterben nicht!",
       "tts": false
+    }
+  ],
+  "overwatchWiki":[
+    {
+      "name": "owgenji",
+      "url": "http://overwatch.gamepedia.com/Genji/Quotes"
+    },
+    {
+      "name": "owmccree",
+      "url": "http://overwatch.gamepedia.com/McCree/Quotes"
+    },
+    {
+      "name": "owpharah",
+      "url": "http://overwatch.gamepedia.com/Pharah/Quotes"
+    },
+    {
+      "name": "owreaper",
+      "url": "http://overwatch.gamepedia.com/Reaper/Quotes"
+    },
+    {
+      "name": "owsoldier76",
+      "url": "http://overwatch.gamepedia.com/Soldier:_76/Quotes"
+    },
+    {
+      "name": "owsombra",
+      "url": "http://overwatch.gamepedia.com/Sombra/Quotes"
+    },
+    {
+      "name": "owtracer",
+      "url": "http://overwatch.gamepedia.com/Tracer/Quotes"
+    },
+    {
+      "name": "owbastion",
+      "url": "http://overwatch.gamepedia.com/Bastion/Quotes"
+    },
+    {
+      "name": "owhanzo",
+      "url": "http://overwatch.gamepedia.com/Hanzo/Quotes"
+    },
+    {
+      "name": "owjunkrat",
+      "url": "http://overwatch.gamepedia.com/Junkrat/Quotes"
+    },
+    {
+      "name": "owmei",
+      "url": "http://overwatch.gamepedia.com/Mei/Quotes"
+    },
+    {
+      "name": "owtorbjorn",
+      "url": "http://overwatch.gamepedia.com/Torbj%C3%B6rn/Quotes"
+    },
+    {
+      "name": "owwidowmaker",
+      "url": "http://overwatch.gamepedia.com/Widowmaker/Quotes"
+    },
+    {
+      "name": "owdva",
+      "url": "http://overwatch.gamepedia.com/D.Va/Quotes"
+    },
+    {
+      "name": "oworisa",
+      "url": "http://overwatch.gamepedia.com/Orisa/Quotes"
+    },
+    {
+      "name": "owreinhardt",
+      "url": "http://overwatch.gamepedia.com/Reinhardt/Quotes"
+    },
+    {
+      "name": "owroadhog",
+      "url": "http://overwatch.gamepedia.com/Roadhog/Quotes"
+    },
+    {
+      "name": "owwinston",
+      "url": "http://overwatch.gamepedia.com/Winston/Quotes"
+    },
+    {
+      "name": "owzarya",
+      "url": "http://overwatch.gamepedia.com/Zarya/Quotes"
+    },
+    {
+      "name": "owana",
+      "url": "http://overwatch.gamepedia.com/Ana/Quotes"
+    },
+    {
+      "name": "owlucio",
+      "url": "http://overwatch.gamepedia.com/L%C3%BAcio/Quotes"
+    },
+    {
+      "name": "owmercy",
+      "url": "http://overwatch.gamepedia.com/Mercy/Quotes"
+    },
+    {
+      "name": "owsymmetra",
+      "url": "http://overwatch.gamepedia.com/Symmetra/Quotes"
+    },
+    {
+      "name": "owzenyatta",
+      "url": "http://overwatch.gamepedia.com/Zenyatta/Quotes"
     }
   ],
   "dmSpammer":[
