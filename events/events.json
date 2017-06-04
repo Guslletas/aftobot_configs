@@ -110,6 +110,13 @@
       "videoOptions": {},
       "responseText": "",
       "tts": false
+    },
+    {
+      "name": "president",
+      "videoURL": "https://www.youtube.com/watch?v=K0ZRAmz-NWM",
+      "videoOptions": {"seek": 9},
+      "responseText": "THE PRESIDENT IS A NIGGER",
+      "tts": false
     }
   ],
   "audioFileResponse":[
@@ -118,6 +125,13 @@
       "url": "https://hydra-media.cursecdn.com/overwatch.gamepedia.com/2/21/Mercy_-_Heroes_never_die%21.ogg",
       "streamOptions": {},
       "responseText": "Heroes never die! \n https://hydra-media.cursecdn.com/overwatch.gamepedia.com/6/66/Spray_Mercy_Cute.png?version=6e9a75fd58b8e1a4f7afc8f2130ae938",
+      "tts": false
+    },
+    {
+      "name": "afto",
+      "url": "https://my.mixtape.moe/apywtr.ogg",
+      "streamOptions": {},
+      "responseText": "AYY, MI CULO",
       "tts": false
     }
   ],
