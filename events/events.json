@@ -265,6 +265,12 @@
       "responseText": "The deplorable %role %username has joined his nearest camp."
     }
   ],
+  "roleAddedEvent":[
+    {
+      "name": "rolegrant",
+      "responseText": "The Kek Reich has granted %username the status of %role. All hail the new %role."
+    }
+  ],
   "leaveVoice":[
     {
       "name": "gtfo bot",
