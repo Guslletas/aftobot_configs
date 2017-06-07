@@ -239,6 +239,18 @@
       "tts": true
     }
   ],
+  "welcomeGroupEvent":[
+    {
+      "name": "nazi roles",
+      "roles": ["Führer", "Reichsminister", "Reichsverkehrsminister", "Poncho Ladeninhaber", "Parteikanzlei", "Oberster Kybernetischer Oberherr", "Adolf Botler"],
+      "responseText": "The Kek Reich welcomes back %role %username."
+    },
+    {
+      "name": "jewish roles",
+      "roles": ["Jüdische Krätze"],
+      "responseText": "The deplorable %role %username has joined his nearest camp."
+    }
+  ],
   "leaveVoice":[
     {
       "name": "gtfo bot",
