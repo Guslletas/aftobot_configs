@@ -263,6 +263,11 @@
       "name": "jewish roles",
       "roles": ["Jüdische Krätze"],
       "responseText": "The deplorable %role %username has joined his nearest camp."
+    },
+    {
+      "name": "french roles",
+      "roles": ["Chef de l'État Baguette"],
+      "responseText": "The Kek Reich has granted control of the État Baguette to **%username**.\nThe new ***%role*** will surely attent to the neeeds of their Kek overlords."
     }
   ],
   "roleAddedEvent":[
