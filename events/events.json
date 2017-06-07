@@ -257,7 +257,7 @@
     {
       "name": "nazi roles",
       "roles": ["Führer", "Reichsminister", "Reichsverkehrsminister", "Poncho Ladeninhaber", "Parteikanzlei", "Oberster Kybernetischer Oberherr", "Adolf Botler"],
-      "responseText": "The Kek Reich welcomes back %role %username."
+      "responseText": "The Kek Reich welcomes back ***%role*** **%username**."
     },
     {
       "name": "jewish roles",
@@ -268,7 +268,7 @@
   "roleAddedEvent":[
     {
       "name": "rolegrant",
-      "responseText": "The Kek Reich has granted %username the status of %role. All hail the new %role."
+      "responseText": "The Kek Reich has granted **%username** the status of ***%role***. All hail the new ***%role***."
     }
   ],
   "leaveVoice":[
