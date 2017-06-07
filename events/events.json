@@ -253,7 +253,7 @@
       "tts": true
     }
   ],
-  "welcomeGroupEvent":[
+  "welcomeRoleEvent":[
     {
       "name": "nazi roles",
       "roles": ["Führer", "Reichsminister", "Reichsverkehrsminister", "Poncho Ladeninhaber", "Parteikanzlei", "Oberster Kybernetischer Oberherr", "Adolf Botler"],
