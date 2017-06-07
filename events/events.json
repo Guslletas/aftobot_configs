@@ -256,7 +256,7 @@
   "welcomeRoleEvent":[
     {
       "name": "nazi roles",
-      "roles": ["Führer", "Reichsminister", "Reichsverkehrsminister", "Poncho Ladeninhaber", "Parteikanzlei", "Oberster Kybernetischer Oberherr", "Adolf Botler", "Generalfeldmarschall"],
+      "roles": ["Führer", "Reichsminister", "Reichsverkehrsminister", "Poncho Ladeninhaber", "Parteikanzlei", "Oberster Kybernetischer Oberherr", "Adolf Botler", "Generalfeldmarschall", "Oberkommando"],
       "responseText": "The Kek Reich welcomes back ***%role*** **%username**."
     },
     {
@@ -268,7 +268,13 @@
   "roleAddedEvent":[
     {
       "name": "rolegrant",
-      "responseText": "The Kek Reich has granted **%username** the status of ***%role***. All hail the new ***%role***."
+      "responseText": "The Kek Reich has granted **%username** the status of ***%role***.\nAll hail the new ***%role***."
+    }
+  ],
+  "roleRemovedEvent":[
+    {
+      "name": "roleremove",
+      "responseText": "The Kek Reich has removed the ***%role*** status from **%username**.\nThe filthy scum of **%username** will no longer be a thread for the Reich."
     }
   ],
   "leaveVoice":[
